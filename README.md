@@ -1,2 +1,2 @@
-# magento2devbox-unison
-File synchronization container for use with devbox.
+This container is for running a newer version of Unison than is possible in the
+'web' container, due to the version of Debian.
